@@ -1,6 +1,6 @@
 # C58
 
-This repository includes the 58 discourse annotated text files of the C58 corpus. For more information about the C58 corpus, visit its [homepage](https://projectgdrc.wixsite.com/c58project/papers). 
+This repository includes the 58 discourse annotated text files of the `C58` corpus. The texts were annotated by 5 trained linguists for verbal aspect, thematic roles and discourse relations, following SDRT's principles (Asher & Lascarides 2003). The `.ann` files in the zipped folder `C58.zip` of this repo are the exported files of the compiled project that was created within the Brat annotation platform. For more information about the `C58` corpus, visit its [homepage](https://projectgdrc.wixsite.com/c58project/papers). 
 
 ## Papers relevant to the C58 corpus
 
